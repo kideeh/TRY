@@ -1,5 +1,5 @@
 # herbs_data.py
-# 52 conditions dataset (English + Kiswahili). Edit/extend as needed.
+# 52 conditions dataset (English + Kiswahili). 
 
 HERBS_DATA = {
     "Common Cold": {
